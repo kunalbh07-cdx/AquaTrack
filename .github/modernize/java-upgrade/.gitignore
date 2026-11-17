@@ -1,0 +1,25 @@
+# Maven
+target/
+
+# IDE
+.vscode/
+.idea/
+
+# Java
+*.class
+
+# Logs
+*.log
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Local database backups
+*.sql
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db

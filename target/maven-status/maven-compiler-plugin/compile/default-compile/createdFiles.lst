@@ -1,0 +1,14 @@
+com\aquatrack\config\DatabaseTest.class
+com\aquatrack\servlet\RegisterServlet.class
+com\aquatrack\servlet\WaterServlet.class
+com\aquatrack\servlet\LogoutServlet.class
+com\aquatrack\servlet\ReportsServlet.class
+com\aquatrack\servlet\AnalyticsServlet.class
+com\aquatrack\servlet\HistoryServlet.class
+com\aquatrack\servlet\LoginServlet.class
+com\aquatrack\util\PasswordUtil.class
+com\aquatrack\model\User.class
+com\aquatrack\model\WaterConsumption.class
+com\aquatrack\dao\UserDAO.class
+com\aquatrack\config\DatabaseConnection.class
+com\aquatrack\dao\WaterConsumptionDAO.class
